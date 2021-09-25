@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compose Config Changes</string>
+
+    <string name="hint_enter_user_id">Enter user ID</string>
+    <string name="hint_enter_password">Enter password</string>
+
+    <string name="button_login">login</string>
+
+</resources>
